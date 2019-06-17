@@ -10,8 +10,8 @@ endif()
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO eigenteam/eigen-git-mirror
-    REF 3.3.7
-    SHA512 270ab9b5c22e09aa0e70d1a26995523c5c21fb0f09da45c137c11ab4c7700fe2bdb2b343c1e063bea4be5ae61d2313ff29ebbcad519dc355a568792b4a6e9e48
+    REF d41dc4d
+    SHA512 c96a0fe042512d1a11692eea035734643941ad1eb074cb61e3153a26b26833456d33cb5b5b14a58007f9f1f0d5acf997c288db82259a99741c4b4635d7943def
     HEAD_REF master
 )
 
